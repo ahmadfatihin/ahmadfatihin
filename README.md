@@ -4,6 +4,8 @@
 <h2> 🤙🏻 &nbsp;Get in touch </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmdfatihin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmad Fatihin-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ahmdfatihin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ahmad Fatihin-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mail.ahmdfatihin17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alt text"></a> 
+<a href="https://www.linkedin.com/in/ahmdfatihin/"><img alt="LinkedIn" src="https://img.shields.io/badge/Ahmad Fatihin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/ahmdfatihin/"><img alt="Instagram" src="https://img.shields.io/badge/Ahmad Fatihin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 </p>
