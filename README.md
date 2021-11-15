@@ -1,8 +1,7 @@
 <a href="https://github.com/ahmadfatihin?tab=repositories" title="Ahmad Fatihin"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfatihin&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/ahmadfatihin" title="Ahmad Fatihin"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmadfatihin&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
 
-![AhmadFatihin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadfatihin&hide_border=true&theme=redical)
-<h2> 🤙🏻 &nbsp;Get in touch </h2>
+🤙🏻 &nbsp;Get in touch </h2>
 
 <p align="left">
 <a href="mailto:mail.ahmdfatihin17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alt text"></a> 
