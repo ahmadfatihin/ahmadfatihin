@@ -1,6 +1,6 @@
 <!-- <a href="https://github.com/ahmadfatihin?tab=repositories" title="Ahmad Fatihin"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfatihin&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/ahmadfatihin" title="Ahmad Fatihin"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmadfatihin&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a> -->
-Software E
+Software Engineer who spend most of his time in Mobile Development
 
 🤙🏻 &nbsp;Get in touch </h2>
 
